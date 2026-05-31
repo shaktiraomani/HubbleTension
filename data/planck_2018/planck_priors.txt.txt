@@ -1,0 +1,5 @@
+# Planck 2018 TT,TE,EE+lowE Distance Priors (Chen, Huang & Wang 2019)
+# Parameter   Mean_Value   Uncertainty
+R             1.7502       0.0046
+l_a           301.471      0.090
+omega_b       0.02236      0.00015
